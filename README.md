@@ -1,3 +1,3 @@
 Portfolio
 
-Project Link : https://karthik1726.github.io/PortFolio/
+Project Link : karthik1726.github.io/PortFolio/
